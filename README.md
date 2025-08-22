@@ -24,7 +24,7 @@ Coloque aqui as informações de redes sociais:
 -->
 
 ### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
-(Descreva aqui suas habilidades.).
+estou cursando ainda.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
